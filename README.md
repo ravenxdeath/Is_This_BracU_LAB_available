@@ -2,7 +2,7 @@
 
 This is a **static website** that shows which lab rooms are currently **occupied** or **available** at BRAC University for Fall 2025. Students can also check lab availability for any day and time using the interactive tool.
 
-Hosted on: [https://TahmidRaven.github.io/is_the_lab_available/](https://TahmidRaven.github.io/is_the_lab_available/)
+Hosted on: [https://TahmidRaven.github.io/is_the_lab_available/]([https://TahmidRaven.github.io/is_the_lab_available/](https://ravenxdeath.github.io/Is_This_BracU_LAB_available/))
 
 ---
 
